@@ -1,0 +1,19 @@
+# macOS and local editor settings
+.DS_Store
+.idea/
+.vscode/
+
+# Local environment files; keep sanitized examples
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Credentials and private keys
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Local logs
+*.log

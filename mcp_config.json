@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "in-case-of-crisis": {
+      "url": "https://mcpgateway.incaseofcrisis.com/mcp"
+    }
+  }
+}

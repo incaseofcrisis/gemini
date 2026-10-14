@@ -1,0 +1,12 @@
+{
+  "name": "in-case-of-crisis",
+  "displayName": "In Case of Crisis",
+  "version": "0.1.0",
+  "description": "Surfaces an organization's approved crisis, emergency, and incident-response protocols the moment a workplace safety situation comes up.",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "What is our severe weather protocol?",
+    "There's an emergency on the 3rd floor, what should we do?",
+    "Show our emergency evacuation and lockdown procedures"
+  ]
+}
