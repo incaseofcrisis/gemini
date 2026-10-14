@@ -2,7 +2,7 @@
 
 Surfaces an organization's own approved crisis, emergency, and incident-response protocols the moment a workplace safety situation comes up in conversation.
 
-Built by [RockDove Solutions](https://www.rockdovesolutions.com). Ported from the [incaseofcrisis/claude](https://github.com/incaseofcrisis/claude) integration to the Google Gemini / Antigravity plugin platform.
+Built by [RockDove Solutions](https://www.rockdovesolutions.com). For the Google Gemini / Antigravity plugin platform.
 
 ---
 
